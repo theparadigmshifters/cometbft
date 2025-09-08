@@ -65,3 +65,7 @@ proto/spec/**/*.pb.go
 go.work.sum
 cmd/cometbft/cometbft
 
+# log & data
+mytestnet*
+nohup*.out
+run.sh
