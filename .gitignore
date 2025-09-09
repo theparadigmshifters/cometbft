@@ -69,3 +69,4 @@ cmd/cometbft/cometbft
 mytestnet*
 nohup*.out
 run.sh
+clean_db.sh
